@@ -1,1 +1,0 @@
-<script src="https://gist.github.com/Tweex49/ae7573e1939457d71040424b065b882b.js"></script>
